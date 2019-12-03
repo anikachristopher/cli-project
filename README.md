@@ -2,7 +2,8 @@
 
 Hi! 👋
 
-You've opened a CLI project using an API which cretaes the ability to see different puppy food recipes. If you love puppies, and you love to cook, then you're in the right place.
+You've opened a CLI project using an API which displays clean jokes for your viewing pleasure. If you love a corny joke, you'll find this suits your taste.
+
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cli/project`. To experiment with that code, run `bin/console` for an interactive prompt.
 
